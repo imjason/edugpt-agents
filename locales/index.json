@@ -83,22 +83,6 @@
             "schemaVersion": 1
         },
         {
-            "author": "cokice",
-            "createAt": "2024-04-10",
-            "homepage": "https://github.com/cokice",
-            "identifier": "profanity-assistant",
-            "meta": {
-                "avatar": "🤬",
-                "description": "I only know how to curse, nothing else.",
-                "tags": [
-                    "answer",
-                    "dirty talk"
-                ],
-                "title": "Dirty Talk Learning Assistant"
-            },
-            "schemaVersion": 1
-        },
-        {
             "author": "infoaitek24",
             "createAt": "2024-04-10",
             "homepage": "https://github.com/infoaitek24",
